@@ -1,0 +1,7 @@
+{
+  "name": "food Joint",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
